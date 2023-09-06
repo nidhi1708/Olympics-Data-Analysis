@@ -1,5 +1,5 @@
 ## Olympics Data Analysis
-The purpose of this project is to Analyse the Olympics Dataset to extract out useful information from it. Provides Overall, medal-wise, country-wise and athelete-wise analysis.
+The purpose of this project is to Analyse the Olympics Dataset to extract out useful information from it. Provides Overall, medal-wise, country-wise and athlete-wise analysis.
 
 
 ## Methods Used 
